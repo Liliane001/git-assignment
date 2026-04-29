@@ -1,1 +1,2 @@
-This branch demonstrates how to use the multi-cursor feature in VS Code.
+This branch demonstrates how to use the multi-cursor feature in VS Code
+This feature improves productivity in VS Code..
